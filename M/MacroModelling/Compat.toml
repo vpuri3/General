@@ -1,15 +1,12 @@
 [0]
 AxisKeys = "0.2"
 BlockTriangularForm = "0.1"
-DocStringExtensions = "0.9"
 ForwardDiff = "0.10"
 IterativeSolvers = "0.9"
 LaTeXStrings = "1"
 LinearMaps = "3"
 MacroTools = "0.5"
-Plots = "1.36.3-1"
 RuntimeGeneratedFunctions = "0.5"
-SnoopPrecompile = "1"
 SpecialFunctions = "2"
 Subscripts = "0.1"
 SymPy = "1"
@@ -23,6 +20,15 @@ DocumenterTools = "0.1"
 ComponentArrays = "0.13"
 Optimization = "3"
 OptimizationNLopt = "0.1"
+
+["0-0.1.13"]
+DocStringExtensions = "0.9"
+
+["0-0.1.14"]
+Plots = "1.36.3-1"
+
+["0-0.1.16"]
+SnoopPrecompile = "1"
 
 ["0-0.1.6"]
 FiniteDifferences = "0.12"
@@ -54,7 +60,20 @@ OptimizationNLopt = "0.1.2"
 ComponentArrays = "0.13"
 RecursiveFactorization = "0.2"
 
-["0.1.4-0"]
+["0.1.14-0"]
+DocStringExtensions = "0.8-0.9"
+
+["0.1.15"]
+Reexport = "1"
+
+["0.1.15-0"]
+Requires = "1"
+
+["0.1.17-0"]
+PrecompileTools = "1"
+Reexport = "1"
+
+["0.1.4-0.1.14"]
 StatsPlots = "0.15"
 
 ["0.1.6-0"]
